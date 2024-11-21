@@ -1,4 +1,4 @@
-# Project Documentations
+# Learning How to document Project Using Github
 
 ### Table of contents
 
